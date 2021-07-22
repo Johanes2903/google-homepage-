@@ -1,0 +1,1 @@
+This is a really basic problem which involves front-end technologies such as HTML and css. The idea is to replicate the googe homepage just with this technologies.
